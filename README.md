@@ -26,7 +26,7 @@ This makes Aqua a powerful tool for **data exploration, decision-making, and aca
 ![Chatbot](images/chat.png)
 
 ### 🔹 Data Comparison Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 ### 🔹 Tamil Query Support
 ![Tamil](images/Tamil.png)
