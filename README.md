@@ -29,7 +29,7 @@ This makes Aqua a powerful tool for **data exploration, decision-making, and aca
 ![Dashboard](images/dashboard.png)
 
 ### 🔹 Tamil Query Support
-![Tamil](images/tamil.png)
+![Tamil](images/Tamil.png)
 ---
 
 ## 🚀 Core Features
